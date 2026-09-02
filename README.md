@@ -1,2 +1,4 @@
 # smores-macropad
-s'mores themed macro
+s'mores themed macropad
+
+![inspo](/Images/Idea.png)
